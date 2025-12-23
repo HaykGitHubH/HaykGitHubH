@@ -6,7 +6,47 @@ Cyber Security specialist with a strong focus on information security, web secur
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/hayk.hayrapetyann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/haykhayrapetyan2003) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hayk15068@gmail.com) 
 
 # 💻 Tech Stack:
-OWASP TOP 10
+
+OWASP TOP 10   
+🧠 Core Skills
+
+Web Security (OWASP Top 10)
+
+Linux Security (users, groups, permissions, hardening)
+
+Networking (TCP/IP, DNS, DHCP, HTTP/HTTPS)
+
+Basic Pentesting Methodology
+
+Log analysis & security monitoring (intro level)
+
+🛠 Tools I Use
+
+nmap, burpsuite, metasploit
+
+sqlmap, hydra, nikto
+
+wireshark, tcpdump
+
+Kali Linux, Ubuntu
+
+🎯 What I’m Working On
+
+Pentesting labs & CTF-style challenges
+
+Web application security testing
+
+Improving Linux & network defense skills
+
+Studying MITRE ATT&CK & OWASP
+
+🚀 Goals
+
+Build strong Red Team foundations
+
+Gain hands-on experience in real-world environments
+
+Contribute to open-source security projects
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=HaykGitHubH&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
